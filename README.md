@@ -20,6 +20,8 @@ Real-time virtual classroom platform built to replace physical lab equipment at 
  
 ### [Plants Go](#)
 Agriculture tool built on a custom GPT model, co-founded to help growers make better decisions.
+
+`TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `Bun`
  
 ### [Habit Space Builder](https://github.com/gargantuahad/habit-space-builder-main)
 A gamified Godot app that lets users experience what daily life on the Moon could look like. Players can design and build their own lunar home while exploring how humans might live and organize their lives in space.
