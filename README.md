@@ -1,4 +1,4 @@
-# Muhammed
+# Mukhamed Kalybekov
  
 **Full-Stack Developer & AI Engineer** · Bishkek, Kyrgyz Republic
  
