@@ -1,6 +1,6 @@
 # Muhammed
  
-**Full-Stack Developer & AI Engineer** · Tokmok, Kyrgyz Republic
+**Full-Stack Developer & AI Engineer** · Bishkek, Kyrgyz Republic
  
 Co-founder of two startups — a freelance marketplace for Central Asia and an AR/3D STEM education platform — currently doing independent research, including a from-scratch reproduction of Self-RAG. Background in STEM and IT events organizing.
  
