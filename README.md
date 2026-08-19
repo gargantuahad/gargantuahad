@@ -8,7 +8,7 @@ Co-founder of two startups — a freelance marketplace for Central Asia and an A
  
 ## Projects
  
-### [Usta (USTA1)](#)
+### [Usta (USTA1)](https://github.com/gargantuahad/USTA1)
 A Fiverr-style freelance marketplace built for CIS & Central Asia — multi-currency, multi-language, escrow-protected orders. In active development.
  
 `FastAPI` `Next.js` `PostgreSQL` `TypeScript` `Tailwind CSS` `shadcn/ui`
