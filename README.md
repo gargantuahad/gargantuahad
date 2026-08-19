@@ -41,8 +41,8 @@ A gamified Godot app that lets users experience what daily life on the Moon coul
 ```
 Web:      TypeScript · React · Next.js · FastAPI · Vite · Tailwind CSS · shadcn/ui
 Data:     PostgreSQL
-AI/ML:    Python · GPT-based tooling · RAG systems · Frontier Models
-Tooling:  Bun · Git
+AI/ML:    Python · GPT-based tooling · RAG systems · Frontier LLM Models
+Tooling:  Bun · Git · Linux 
 
 ---
 
